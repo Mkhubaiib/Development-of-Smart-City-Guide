@@ -7,9 +7,9 @@ Collaborated on the Smart City Guide, a platform providing essential city-relate
 
 **Key Features**
 
-    **Admin Modules:** Centralized control for managing city information, including tourism, education, job listings, business, and transportation.
-    
-    **User Modules:** Provided tourists, students, job seekers, and business professionals with resources like city landmarks, accommodations, job opportunities, and business insights.
+**Admin Modules:** Centralized control for managing city information, including tourism, education, job listings, business, and transportation.
+
+**User Modules:** Provided tourists, students, job seekers, and business professionals with resources like city landmarks, accommodations, job opportunities, and business insights.
 
 
 **Motivation & Impact**
